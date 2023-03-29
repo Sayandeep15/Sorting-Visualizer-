@@ -5,5 +5,7 @@ Sorting Visualizer using html, css, js
 
 You can check out the full website [from here](https://sorting-visualizer-sd.netlify.app//)
 
-visualization.html, visualization.css and maain1.js file is only for the above visualizer.
+visualization.html, visualization.css and maain1.js file is only for the above visualizer page.
+
+
 We all know sorting in arrays. The above project is the simple Visualizaion that how arrays are being sorted in memories in different types of sorting algorithm.
