@@ -64,27 +64,7 @@ nav{
 }
 
 /*----------------------------------------------Button part----------------------------------------------------------------------------------------------------------*/
- /*.nav_button a{
-    
-    background-color:var(--bg-color);
-    border: 1.5px solid var(--main-color);
-    border-radius: 8px;
-    color: white;
-    padding: 5px 10px;
-    display: inline-block;
-    box-shadow: 0 0 1px 0 var(--main-color), 0 0 5px 0 var(--main-color);
-    transition-duration: 0.4s;
-    cursor: pointer;
-    text-decoration: none;
-    font-size: 0.7rem;  
-    margin-left: 3rem; 
-}
-.nav_button a:hover,
-.nav_button a.active
-{
-    background-color: var(--main-color);
-    color: white;
-}*/
+ 
 
 .nav_button a{
     color: white;
